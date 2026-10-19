@@ -1,2 +1,3 @@
 Name: Akshat Vassra
 City: Gurugram
+Skills: C++, Java, Python, React
